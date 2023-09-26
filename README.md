@@ -10,7 +10,7 @@ Common packages built under Python 3 kernel are required. The libraries include:
  sklearn
 
 # Project Motivation
-I will use some Airbnb insider data (listings data) to show you what to expect from past homestay listings activities, collected within Cape Town over a period of 12 months ending March 2023. While the data has multiple features (listing characteristics), I will use just some to answer the following questions:
+As part of the Udacity Data Science nanodegree program, I will use some Airbnb insider data (listings data) to show you what to expect from past homestay listings activities, collected within Cape Town over a period of 12 months ending March 2023. While the data has multiple features (listing characteristics), I will use just some to answer the following questions:
     1. What are the Airbnb listing characteristics (such as accommodation types, room types and property types) available         for bookings in the city?
     2. Which variables influence listing prices within the city?
     3. Can we predict listing prices for the Airbnb homestays within the city?
